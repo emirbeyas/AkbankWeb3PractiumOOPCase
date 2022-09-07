@@ -1,0 +1,15 @@
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.AssemblyInfoInputs.cache
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.AssemblyInfo.cs
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\bin\Debug\net6.0\AkbankWeb3Practicum.exe
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\bin\Debug\net6.0\AkbankWeb3Practicum.deps.json
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\bin\Debug\net6.0\AkbankWeb3Practicum.runtimeconfig.json
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\bin\Debug\net6.0\AkbankWeb3Practicum.dll
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\bin\Debug\net6.0\AkbankWeb3Practicum.pdb
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.dll
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\refint\AkbankWeb3Practicum.dll
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.pdb
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\AkbankWeb3Practicum.genruntimeconfig.cache
+C:\Users\Emir\source\repos\AkbankWeb3Practicum\AkbankWeb3Practicum\obj\Debug\net6.0\ref\AkbankWeb3Practicum.dll
